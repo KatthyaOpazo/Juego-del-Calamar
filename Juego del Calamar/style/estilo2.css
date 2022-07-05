@@ -1,0 +1,44 @@
+*{
+    margin: 4px;
+    padding: 0px;
+}
+
+html{
+    background-color: black
+}
+
+body{
+    width: 1000px;
+    height: 560px;
+    background-color: black;
+    margin: auto;
+}
+#Relog{
+    width: 280px;
+    height: 300px;
+    background-color: black;
+    margin: auto;
+    float: right;
+    background-image: url(../images/cronometro.gif);
+    background-repeat: no-repeat;
+    margin-block-end: 50px;
+}
+
+#JuegoLRV{
+    width: 700px;
+    height: 560px;
+    background-color: black;
+    margin: auto;
+    float: left;
+    background-image: url(../images/Eliminado.jpeg);
+}
+
+#jelim{
+    width: 285px;
+    height: 200px;
+    background-color: black;
+    margin: auto;
+    float: right;
+    background-image: url(../images/jelim.PNG);
+    background-repeat:no-repeat ;
+}
